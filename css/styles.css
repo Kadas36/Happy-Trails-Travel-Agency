@@ -6,3 +6,13 @@ h3>a{
     text-decoration: none;
     font-family: fantasy;
 }
+
+.popular{
+    color: red;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 500px;
+}
